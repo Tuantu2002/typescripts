@@ -36,3 +36,47 @@
     transform: rotate(360deg);
   }
 }
+.classtable{
+  width: 100%;
+  background-color: black;
+  color: white;
+  border-collapse:inherit;
+}
+.body-table {
+  background-color: white;
+  color: black;
+}
+.remove{
+
+  background-color: red;
+  color: white;
+  border: none;
+  
+}
+.remove:hover{
+  cursor: pointer;
+  background-color: purple;
+}
+.probootstrap-header {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  width: 100%;
+  z-index: 12;
+  position: absolute;
+  top: 0;
+}
+
+.probootstrap-logo {
+  float: left;
+  color: #ffffff;
+  padding-left: 0px;
+  font-size: 20px;
+  display: block;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: "Open Sans", sans-serif;
+}
+
+.probootstrap-logo:hover, .probootstrap-logo:focus, .probootstrap-logo:active {
+  color: #ffffff;
+}

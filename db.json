@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": "4",
+      "name": "tuấn aaaatúấdasd",
+      "age": "220",
+      "price": "200223123"
+    },
+    {
+      "id": "5",
+      "name": "tuấn aaaatúấdasd",
+      "age": "220",
+      "price": "200223123"
+    },
+    {
+      "id": "6",
+      "name": "tuấn aaaatúấdasd",
+      "age": "220",
+      "price": "200223123"
+    },
+    {
+      "name": "12312312",
+      "age": 123,
+      "price": 12312312,
+      "id": "SCT_fgd"
+    }
+  ],
+  "posts": [
+    {
+      "title": "ahihi",
+      "desc": "ahihi",
+      "author": "ahihi",
+      "category": "ahihi",
+      "thumnail": "",
+      "status": 0,
+      "id": 1
+    },
+    {
+      "title": "nấu ăn",
+      "desc": "nấu ăn ahihi",
+      "author": "nấu ăn",
+      "category": "nấu ăn ",
+      "thumnail": "",
+      "status": "0",
+      "id": 2
+    },
+    {
+      "title": "q",
+      "desc": "q",
+      "author": "q",
+      "category": "q",
+      "thumnail": "q",
+      "status": 0,
+      "id": 3
+    }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "name": "sach",
+      "price": "2000",
+      "danhmuc": "sach231",
+      "status": "undefined"
+    }
+  ],
+  "category": [
+    {
+      "danhmuc": "sach",
+      "id": 1
+    },
+    {
+      "danhmuc": "3131",
+      "id": 2
+    }
+  ]
+}

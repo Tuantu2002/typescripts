@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.probootstrap-header {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  width: 100%;
+  z-index: 12;
+  position: absolute;
+  top: 0;
+}
+
+.probootstrap-logo {
+  float: left;
+  color: #ffffff;
+  padding-left: 0px;
+  font-size: 20px;
+  display: block;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: "Open Sans", sans-serif;
+}
+
+.probootstrap-logo:hover, .probootstrap-logo:focus, .probootstrap-logo:active {
+  color: #ffffff;
+}
